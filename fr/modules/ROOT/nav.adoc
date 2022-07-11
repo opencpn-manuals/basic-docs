@@ -13,3 +13,5 @@
 ** xref:making_route:makeroute.adoc[Making a Route]
 
 ** xref:following_route:followroute.adoc[Following a Route]
+
+* xref:links:links.adoc(Advanced Manual Links)
