@@ -1,0 +1,9 @@
+po4a-gettextize \
+  --format asciidoc \
+  --option compat=asciidoctor \
+  --option yfm_keys=title,part,description \
+  --master "en/gps.adoc" \
+  --master-charset "UTF-8" \
+  --copyright-holder "Mike Rossiter" \
+  --package-name "Basics Documentation" \
+  --po "es/gps.po"

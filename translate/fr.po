@@ -1,0 +1,390 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Mike Rossiter
+# This file is distributed under the same license as the Basics Manual Translations package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Basics Manual Translations 0.1\n"
+"Report-Msgid-Bugs-To: miker@members.swis.net\n"
+"POT-Creation-Date: 2022-07-11 11:19+0100\n"
+"PO-Revision-Date: 2022-07-11 14:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. type: Title =
+#: ../en/modules/charts/pages/charts.adoc:4
+#, no-wrap
+msgid "Installing a Chart"
+msgstr "Installer un graphique"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:7
+msgid ""
+"For demonstration a freely available U.S. chart (CAPE SABLE TO CAPE "
+"HATTERAS) will be used."
+msgstr ""
+"Pour la démonstration, une carte américaine disponible gratuitement (CAPE "
+"\"\n"
+"\"SABLE TO CAPE HATTERAS) sera utilisée."
+
+#. type: Title ==
+#: ../en/modules/charts/pages/charts.adoc:8
+#, no-wrap
+msgid "Downloading and installing a U.S. chart"
+msgstr "Téléchargement et installation d'une carte des États-Unis"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:12
+msgid "btn:[Options] image:2.0.jpg[] on the tool bar btn:[Charts]"
+msgstr "btn:[Options] image:2.0.jpg[] sur la barre d'outils btn:[Graphiques]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:14
+msgid "image:2.1.jpg[]"
+msgstr "image:2.1.jpg[]image:2.1.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:16
+msgid "Select the __Chart Downloader__ tab"
+msgstr "Sélectionnez l'onglet __Chart Downloader__"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:18
+msgid "image:2.2.jpg[]"
+msgstr "image:2.2.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:20
+msgid "Press btn:[Add Catalog]"
+msgstr "Appuyez sur btn : [Ajouter un catalogue]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:22
+msgid "image:2.3.jpg[]"
+msgstr "image:2.3.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:24
+msgid "Select _USA - NOAA & Inland charts_ and press btn:[OK]"
+msgstr "Sélectionnez _USA - NOAA & Inland charts_ et appuyez sur btn :[OK]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:26
+msgid "Two sets of charts are available, RNC and ENC."
+msgstr "Deux séries de cartes sont disponibles, RNC et ENC."
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:28
+#, no-wrap
+msgid "*RNC* are Raster charts, scanned charts with full navigational detail, where the detail cannot be adjusted.\n"
+msgstr "*RNC* sont des cartes raster, des cartes numérisées avec des détails de navigation complets, où les détails ne peuvent pas être ajustés.\n"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:29
+#, no-wrap
+msgid "*ENC* Electronic navigational charts where the objects and amount of detail needed can be chosen by the user. These charts are rapidly taking the place of RNC.  \n"
+msgstr "*ENC* Cartes de navigation électroniques où les objets et la quantité de détails nécessaires peuvent être choisis par l'utilisateur. Ces cartes remplacent rapidement RNC.\n"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:31
+#, no-wrap
+msgid "*ENC* is used.\n"
+msgstr "*ENC* est utilisé.\n"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:33
+msgid "image:2.4.jpg[]"
+msgstr "image:2.4.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:35
+msgid "image:2.4.1.jpg[]"
+msgstr "image:2.4.1.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:37
+msgid "Select _\"by States\"_"
+msgstr "Select _\"by States\"_"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:39
+msgid "image:2.5.jpg[]"
+msgstr "image:2.5.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:41
+msgid ""
+"A default entry for the folder for downloaded charts is shown. For "
+"simplicity the default is used."
+msgstr ""
+"Une entrée par défaut pour le dossier des cartes téléchargées s'affiche. \"\n"
+"\"Pour plus de simplicité, la valeur par défaut est utilisée."
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:43
+#, no-wrap
+msgid "*RNC* _\"NY - New York\"_ is selected. Press btn:[OK]\n"
+msgstr "*RNC* _\\\"NY - New York\\\"_ est sélectionné. Appuyez sur btn :[OK]\n"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:45
+msgid "An entry for New York state appears in the catalog."
+msgstr "Une entrée pour l'état de New York apparaît dans le catalogue."
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:47
+msgid "image:2.6.jpg[]"
+msgstr "image:2.6.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:49
+msgid "btn:[Update]"
+msgstr "btn:[Update]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:51
+msgid "Only one chart is needed _CAPE SABLE TO CAPE HATTERAS_"
+msgstr "Une seule carte est nécessaire _CAP SABLE À CAP HATTERAS_"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:53
+msgid "image:2.7.jpg[]"
+msgstr "image:2.7.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:55
+msgid "btn:[Select All] first to allow deselecting all the charts"
+msgstr ""
+"btn : [Sélectionner tout] d'abord pour autoriser la désélection de tous les "
+"\"\n"
+"\"graphiques"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:57
+msgid "image:2.8.jpg[]"
+msgstr "image:2.8.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:59
+msgid "btn:[Select None] and then select _Cape Sable to Cape Hatteras_"
+msgstr ""
+"btn : [Sélectionner aucun], puis sélectionnez _Cape Sable à Cape Hatteras_"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:61
+msgid "image:2.9.jpg[]"
+msgstr "image:2.9.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:63
+msgid "btn:[Download selected charts]"
+msgstr "btn :[Télécharger les cartes sélectionnés]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:65
+msgid "image:2.10.jpg[]"
+msgstr "image:2.10.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:67
+msgid "btn:[Apply]"
+msgstr "btn:[Apply]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:69
+msgid "This returns you to btn:[Options]"
+msgstr "Cela vous ramène à btn : [Options]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:71
+msgid "image:2.11.jpg[]"
+msgstr "image:2.11.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:74
+msgid ""
+"Staying in btn:[Options] select the _Chart Files_ tab and press btn:[Add "
+"Directory...] Find the folder _US_NY_ where the _Cape Sable to Cape "
+"Hatteras_ chart is located"
+msgstr ""
+"Rester dans btn :[Options] sélectionnez l'onglet _Chart Files_ et appuyez "
+"sur btn :[Add Directory...] Trouvez le dossier _US_NY_ où se trouve la carte "
+"_Cape Sable to Cape Hatteras_"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:76
+msgid "image:2.12.jpg[]"
+msgstr "image:2.12.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:79
+msgid "Press btn:[Select Folder] An entry appears in the list of directories"
+msgstr ""
+"Appuyez sur btn :[Select Folder] Une entrée apparaît dans la liste des "
+"répertoires"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:81
+msgid "image:2.14.jpg[]"
+msgstr "image:2.14.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:83
+msgid "btn:[Apply] and btn:[OK] to return to the main screen"
+msgstr "btn :[Appliquer] et btn :[OK] pour revenir à l'écran principal"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:85
+msgid "Move the base chart until you can see the East Coast of the USA."
+msgstr ""
+"Déplacez la carte de base jusqu'à ce que vous puissiez voir la côte est des "
+"États-Unis."
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:87
+msgid "Drag with the mouse"
+msgstr "Faites glisser avec la souris"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:89
+msgid "--*OR*--"
+msgstr "--*OU*--"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:91
+msgid ""
+"Click the arrow image:2.14.1.jpg[40, 40] that appears when the mouse pointer "
+"is moved to the side of the display"
+msgstr ""
+"Cliquez sur la flèche image:2.14.1.jpg[40, 40] qui apparaît lorsque le "
+"pointeur de la souris est déplacé sur le côté de l'écran"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:93
+msgid "image:2.15.jpg[]"
+msgstr "image:2.15.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:95
+msgid "US Charts use the unit *Feet* for depths and heights."
+msgstr ""
+"Les cartes américaines utilisent l'unité * Pieds * pour les profondeurs et "
+"les hauteurs."
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:97
+msgid "If you want to change units use btn:[Options]"
+msgstr "Si vous souhaitez changer d'unités, utilisez btn :[Options]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:99
+msgid "image:2.16.jpg[]"
+msgstr "image:2.16.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:101
+msgid "btn:[Display] and select the _Units_ tab"
+msgstr "btn :[Affichage] et sélectionnez l'onglet _Unités_"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:103
+msgid "image:2.17.jpg[]"
+msgstr "image:2.17.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:105
+msgid "Use the dropdown for _Depth_ to change the unit _Feet_ to _Meters_"
+msgstr ""
+"Utilisez le menu déroulant pour _Depth_ pour changer l'unité _Feet_ en \"\n"
+"\"_Meters_"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:107
+#: ../en/modules/charts/pages/charts.adoc:129
+msgid "btn:[Apply] btn:[OK]"
+msgstr "btn:[Apply] btn:[OK]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:109
+msgid "image:2.18.jpg[]"
+msgstr "image:2.18.jpg[]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:111
+msgid ""
+"Charts available for OpenCPN are described in the https://opencpn.org/wiki/"
+"dokuwiki/doku.php?id=opencpn:opencpn_user_manual:charts:chart_sources[User "
+"Manual]"
+msgstr ""
+"Les graphiques disponibles pour OpenCPN sont décrits dans le https://opencpn."
+"\"\n"
+"\"org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:charts:\"\n"
+"\"chart_sources[Manuel de l'utilisateur]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:113
+msgid ""
+"Even without a navigational chart a GPS can be connected and tested. This is "
+"described xref:GPS:gps.adoc[HERE]."
+msgstr ""
+"Même sans carte de navigation, un GPS peut être connecté et testé. Ceci est "
+"\"\n"
+"\"décrit xref:GPS:gps.adoc[ICI]."
+
+#. type: Title ==
+#: ../en/modules/charts/pages/charts.adoc:114
+#, no-wrap
+msgid "High resolution base map"
+msgstr "Fond de carte haute résolution"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:117
+msgid ""
+"To improve the look of the base map a high resolution version can be "
+"installed using the chart downloader (Internet connection needed)."
+msgstr ""
+"Pour améliorer l'apparence de la carte de base, une version haute résolution "
+"\"\n"
+"\"peut être installée à l'aide du téléchargeur de cartes (connexion Internet "
+"\"\n"
+"\"nécessaire)."
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:119
+msgid "btn:[Options] btn:[Charts] *Chart Downloader* btn:[Add Catalog]"
+msgstr ""
+"btn :[Options] btn :[Graphiques] *Téléchargeur de graphiques* btn :[Ajouter "
+"un catalogue]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:121
+msgid "Select *GSHHG basemap* then *All GSHHG basemaps*"
+msgstr ""
+"Sélectionnez *Fond de carte GSHHG* puis *Tous les fonds de carte GSHHG*"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:123
+msgid "Use the default installation directory."
+msgstr "Utilisez le répertoire d'installation par défaut."
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:125
+msgid "btn:[OK]"
+msgstr "btn:[OK]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:127
+msgid "btn:[Update] btn:[Download selected charts]"
+msgstr "btn :[Mettre à jour] btn :[Télécharger les graphiques sélectionnés]"
+
+#. type: Plain text
+#: ../en/modules/charts/pages/charts.adoc:131
+msgid "image:2.19.jpg[]"
+msgstr "image:2.19.jpg[]"
