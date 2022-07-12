@@ -1,0 +1,88 @@
+:experimental:
+
+= Waypoints
+
+Waypoints are geo-referenced points that can be added to the chart. They perform a number of functions.
+
+* Mark alter course points on a planned route
+* Mark a significant location on the chart such as an anchorage or isolated danger
+* Are used by a plugin to mark a location that is linked to information on the Internet
+* Mark a man overboard position
+
+== Add a waypoint
+
+Move the cursor to the position where you want the waypoint.
+
+_right-click_
+
+image:7.1.jpg[] 
+
+*Drop Mark*
+
+image:7.2.jpg[] 
+
+_right-click_
+
+image:7.3.jpg[]
+
+*Properties*
+
+The waypoint can be named and a different icon chosen with the dropdown. A description has been added.
+
+image:7.4.jpg[] 
+
+Internet and file links are added with _right-click_ 
+
+image:7.4.1.jpg[] 
+
+btn:[Add New]
+
+image:7.4.2.jpg[] 
+
+btn:[OK]
+
+image:7.4.3.jpg[]
+
+The link will open the website.
+
+The waypoint now appears like this.
+
+image:7.5.jpg[] 
+
+_right-click_
+
+image:7.6.jpg[]
+
+*Delete*
+
+image:7.6.1.jpg[] 
+
+== Manoverboard (MOB) Marker
+
+image:7.7.jpg[]
+
+This drops a waypoint at the ship's present position, which can be used to assist in returning for a recovery.
+
+image:7.8.1.jpg[]
+
+A temporay route is created, back to the manoverboard from a waypoint that has been dropped 1.0NM along the COG from the MOB. 
+
+image:7.8.2.jpg[]
+
+image:7.8.3.jpg[]
+
+The route information (*This Leg*) shows the range and bearing of the MOB and the time to reach the casualty.
+
+More information about routes is xref:making_route:makeroute.adoc[HERE]
+
+_*Deleting the MOB marker*_
+
+Unlike other waypoints the MOB cannot be removed with _right-click_ *Delete*.
+
+btn:[Route  &amp; Mark Manager] image:4.8.jpg[]
+
+Select the _Waypoints_ tab. Select the MOB waypoint. 
+
+btn:[Delete] btn:[Yes]
+
+image:7.9.jpg[]
