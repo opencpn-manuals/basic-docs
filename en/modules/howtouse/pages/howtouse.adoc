@@ -34,7 +34,7 @@ _right-click_ is ctrl-click for the MacOS.
 
 == Menu Items
 
-A menu may have been displayed using _right-click_:
+Using _right-click_:
 
 image:4.6.jpg[]
 
