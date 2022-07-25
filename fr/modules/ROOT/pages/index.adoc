@@ -1,5 +1,5 @@
-= Basic Manual
+= QuickStart Manual
 
 Ce guide est une introduction à OpenCPN. Il est destiné à un nouvel utilisateur du programme.
 
-__Basic__ est basé sur la version 5.6.2 d'OpenCPN. Il n'inclut pas d'informations sur la version Android du programme.
+__QuickStart__ est basé sur la version 5.6.2 d'OpenCPN. Il n'inclut pas d'informations sur la version Android du programme.

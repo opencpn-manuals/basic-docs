@@ -1,4 +1,4 @@
-* xref:index.adoc[OpenCPN Basic Manual]
+* xref:index.adoc[OpenCPN QuickStart Manual]
 
 ** xref:howtouse:howtouse.adoc[Using the Manual]
 
